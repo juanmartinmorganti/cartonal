@@ -10,8 +10,8 @@
 - **Fecha estimada de llegada**: 15 de octubre de 2025.
 
 ## Banco Provincia
--**Ritili Gabriela - Suc. La Plata**
--lpprocomex@bpba.com.ar
+- **Ritili Gabriela - Suc. La Plata**
+- lpprocomex@bpba.com.ar
 
 
 
@@ -24,3 +24,4 @@
 - **Documentos recibidos**:
   - Factura proforma.
   - Lista de empaque preliminar.
+  
