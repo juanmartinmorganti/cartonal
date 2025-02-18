@@ -17,7 +17,7 @@
 
 ## Seguimiento Diario
 
-### Día 1: 25 de octubre de 2023
+### Día 1: 06 de febrero de 2025
 - **Acciones realizadas**:
   - Contacto con el proveedor para confirmar la orden de compra.
   - Revisión de la documentación inicial.
