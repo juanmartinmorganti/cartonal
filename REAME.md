@@ -1,7 +1,7 @@
 # Seguimiento de la Gestión de Importación
 
 ## Información General
-- **Producto a importar**: Maquinaria industrial.
+- **Producto a importar**: Papael Bioxido y Antigrasa.
 - **Proveedor**: ABC Corp.
 - **País de origen**: China.
 - **Incoterm**: FOB Shanghai.
