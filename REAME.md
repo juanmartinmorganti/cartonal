@@ -2,12 +2,12 @@
 
 ## Información General
 - **Producto a importar**: Papael Bioxido y Antigrasa.
-- **Proveedor**: ABC Corp.
-- **País de origen**: China.
+- **Proveedor**: CARTONAL ITALIA S.P.A.
+- **País de origen**: Italia.
 - **Incoterm**: FOB Shanghai.
 - **Medio de transporte**: Marítimo.
-- **Agente de aduanas**: XYZ Aduanas.
-- **Fecha estimada de llegada**: 15 de noviembre de 2023.
+- **Agente de aduanas**: Siciliano Viviana.
+- **Fecha estimada de llegada**: 15 de octubre de 2025.
 
 ## Seguimiento Diario
 
