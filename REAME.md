@@ -27,9 +27,17 @@
 
 ### Día 1: 19 de marzo 2025.
 - **Acciones realizadas**:
-  - Contacto con el proveedor para confirmar la orden de compra.
-  - Revisión de la documentación inicial.
+  - Contactar por whatsapp a Mario de Macro y solicitar un Meet.
+  -      Meet 20/03/2025 11:30
+  - Enviar mail a contacto comex BBVA.
+  -      mail enviado 19/03 10:41
+  - Iniciar la calificación crediticia en Macro.
+  - Completar documentación para carpeta crediticia BBVA.
+  - Llamar a Siciliano.
+  -      cuando se despacha la mercaderia se le envian los formularios
+  - Iniciar Carta de Credito Bco Prov.
+  - Preguntar a Cartonal posible fecha de despacho.
 - **Documentos recibidos**:
-  - Factura proforma.
-  - Lista de empaque preliminar.
+  - Orden de compra.
+  
   
