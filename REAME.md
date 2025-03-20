@@ -39,5 +39,14 @@
   - Preguntar a Cartonal posible fecha de despacho.
 - **Documentos recibidos**:
   - Orden de compra.
+
+### Día 2: 20 de marzo 2025.
+- **Acciones realizadas**:
+ - La empresa Cartonal responde mail diciendo que necesita la CARTA DE CREDITO para dar inicio al pedido.
+ - Se inicia proceso de solicitud de CARTA DE CREDITO BCO PROV
+ - Como acordamos ayer con Siciliani, ella se encarga de gestionar la poliza
+ - Enviar correo a Borre Belen  
+ -      Juan buenos días   Recibido. Analizamos y volvemos con comentarios
+ - Enviar correo a Siciliani  
   
   
