@@ -47,6 +47,17 @@
  - Como acordamos ayer con Siciliani, ella se encarga de gestionar la poliza
  - Enviar correo a Borre Belen  
  -      Juan buenos días   Recibido. Analizamos y volvemos con comentarios
- - Enviar correo a Siciliani  
+ - Enviar correo a Siciliani 
+ - Surge una corrección del BP 1822, se modifica y se vuelve a enviar.
+
+### Día 3: 21 de marzo 2025.
+- **Acciones realizadas**:
+ - Siciliano envia poliza de seguro.
+ - Enviar poliza Bco Prov
+ -       Juan buenos días
+         Recibido, ni bien tenga alguna cotización te aviso!!
+         Seguimos en contacto
+         Saludos
+   
   
   
