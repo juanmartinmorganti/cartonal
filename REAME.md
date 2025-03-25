@@ -58,6 +58,17 @@
          Recibido, ni bien tenga alguna cotización te aviso!!
          Seguimos en contacto
          Saludos
+
+### Día 4: 25 de marzo 2025.
+- **Acciones realizadas**:
+ - Belén envia cotización, confirmo y espero pasos a seguir.
+ - CARTONAL envía OC final (hasta el momento), actualizado, al modificar el precio se tiene que rehacer el BP1822,  el banco tiene que volver a cotizar.
+ - Hoy nos atiende Marisol Gomez, Belén esta de licencia, se confirma la cotización del banco corresponsal COMMERZBANK
+ - Envío a Marisol nuevo OC y BP 1822
+ - Se envía mail a CARTONAL donde se confirma que la carta de credito se va a gestionar con el Bco Prov y que el formulario SEDI ya no es obligatorio.
+
+
+
    
   
   
