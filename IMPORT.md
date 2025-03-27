@@ -20,7 +20,10 @@
 ## Banco BBvA
 - **Ciappa José**
 - hectorlautaro@bbva.com
-
+## Cartonal
+- **Alessandra Faleschini**
+- a.faleschini@cartonal.com
+- f.marchetti@cartonal.com
 
 
 ## Seguimiento Diario
@@ -73,7 +76,10 @@
  - La novedad del día de ayer fue que Maria Julia solicita la renovación crediticia 45 días antes de que vensa. "Si bien el vigente vence a mediados del mes de mayo, necesitamos tener el nuevo margen aprobado antes, por la operación con COMEX"
  - Hoy comienzo a preparar la carpeta crediticia 2025.
 
-
+### Día 6: 27 de marzo 2025.
+- **Acciones realizadas**:
+ - Belén envía DRAFT para revisión 
+ - Se envía mail a CARTONAL para revisión de DRAFT.
    
   
   
