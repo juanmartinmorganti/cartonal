@@ -78,8 +78,16 @@
 
 ### Día 6: 27 de marzo 2025.
 - **Acciones realizadas**:
- - Belén envía DRAFT para revisión 
+ - Belén envía DRAFT CDI 132138 para revisión 
  - Se envía mail a CARTONAL para revisión de DRAFT.
+ - Respuesta de Cartonal
+    Buenos dias,
+    - Muchas gracias por el draft de la carta de crédito.
+Lo revisaremos con nuestro banco y nos pondremos en contacto con usted lo antes posible.
+
+ 
+
+
    
   
   
