@@ -85,6 +85,20 @@
     - Muchas gracias por el draft de la carta de crédito.
 Lo revisaremos con nuestro banco y nos pondremos en contacto con usted lo antes posible.
 
+### Día 7: 31 de marzo 2025.
+- **Acciones realizadas**:
+ - Recimos mail de Alessandra donde solicita cambios en la confección de la carta de credito.
+    - corregir el HS CODE en el punto 45 A: 4811.60.00 debe ser modificado por 4810.13.00 (tal y como se indicaba en la proforma)
+
+    - corregir el punto 46 A, D: debe ser ORIGIN CERTIFICATE 1 ORIGINAL AND 1 COPY
+
+- Reenviar mail a Belén de Cartonal y el BP 1822 actualizado.
+- Belén recibe mail y dice que necesitamos la nueva pocosión arancelaria, la consulto a Siciliano para saber si tiene el codigo.
+- Quedamos a la espera de un nuevo CDI
+- Una vez q este todo confirmado enviar los originales al Comes capital.
+- Comex Bco Prov nos envia un nuevo CDI y se lo reenviamos a Cartonal.
+
+
  
 
 
