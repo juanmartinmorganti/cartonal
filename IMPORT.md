@@ -95,9 +95,14 @@ Lo revisaremos con nuestro banco y nos pondremos en contacto con usted lo antes 
 - Reenviar mail a Belén de Cartonal y el BP 1822 actualizado.
 - Belén recibe mail y dice que necesitamos la nueva pocosión arancelaria, la consulto a Siciliano para saber si tiene el codigo.
 - Quedamos a la espera de un nuevo CDI
-- Una vez q este todo confirmado enviar los originales al Comes capital.
+- Una vez q este todo confirmado enviar los originales al Comex capital.
 - Comex Bco Prov nos envia un nuevo CDI y se lo reenviamos a Cartonal.
 
+### Día 8: 01 de abril 2025.
+- **Acciones realizadas**:
+ - Recimos mail de Alessandra 
+  ####  Muchas gracias, confirmamos que la carta de credito està correcta. A continuación se darán más detalles con la indicación de la fecha de salida del buque
+- Comunicarle a Belén que Cartonal confirmo la Carta de Credito  
 
  
 
