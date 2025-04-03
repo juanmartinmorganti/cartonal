@@ -104,6 +104,12 @@ Lo revisaremos con nuestro banco y nos pondremos en contacto con usted lo antes 
   ####  Muchas gracias, confirmamos que la carta de credito està correcta. A continuación se darán más detalles con la indicación de la fecha de salida del buque
 - Comunicarle a Belén que Cartonal confirmo la Carta de Credito  
 
+### Día 9: 03 de abril 2025.
+- **Acciones realizadas**:
+- Preparación de la documentación en original para llevar al banco.
+- Sobre listo, todos los originales firmados por el presidente.
+- Estamos a la espera de la información de despacho. 
+
  
 
 
