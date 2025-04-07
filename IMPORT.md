@@ -110,6 +110,18 @@ Lo revisaremos con nuestro banco y nos pondremos en contacto con usted lo antes 
 - Sobre listo, todos los originales firmados por el presidente.
 - Estamos a la espera de la información de despacho. 
 
+### Día 10: 07 de abril 2025.
+- **Acciones realizadas**:
+- Cartonal solicita el swift definitivo.
+- Se le reenvía el mail de Cartonal a Belén y se le consulta si recibio el sobre.
+Quedamos a la espera de una respuesta.
+- Respuesta de Belén "Juan buenos días Si, los recibimos
+Estamos a la espera de la conformidad del área crediticia, para avanzar con la emisión final
+Te mantengo al tanto
+Saludos,"
+- Se le responde tanto a Belén como a Alessandra.  
+
+
  
 
 
