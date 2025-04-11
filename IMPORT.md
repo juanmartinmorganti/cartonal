@@ -125,6 +125,11 @@ Saludos,"
 - **Acciones realizadas**:
 - Belén envia Swift definitivo, se le reenvía a Cartonal.
 
+## Día 12: 11 de abril 2025.
+- **Acciones realizadas**:
+- Respuesta de Alessandra, quedamos a la espera de la confirmación del banco de Cartonal.
+- Recibimos mail en la casilla lasapapelera@hotmail.com de Comex Bco Prov con documentación de oparaciones realizadas.
+
 
 
  
