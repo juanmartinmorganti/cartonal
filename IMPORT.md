@@ -119,7 +119,12 @@ Quedamos a la espera de una respuesta.
 Estamos a la espera de la conformidad del área crediticia, para avanzar con la emisión final
 Te mantengo al tanto
 Saludos,"
-- Se le responde tanto a Belén como a Alessandra.  
+- Se le responde tanto a Belén como a Alessandra.
+
+### Día 11: 09 de abril 2025.
+- **Acciones realizadas**:
+- Belén envia Swift definitivo, se le reenvía a Cartonal.
+
 
 
  
