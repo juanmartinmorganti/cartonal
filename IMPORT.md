@@ -131,6 +131,13 @@ Saludos,"
 - Recibimos mail en la casilla lasapapelera@hotmail.com de Comex Bco Prov con documentación de oparaciones realizadas.
 
 
+## Día 13: 17 de abril 2025.
+- **Acciones realizadas**:
+- Operación confirmada, quedamos a la espera de la información sobre el despacho de parte de Cartonal.
+- Ingreso a la pagina de la Naviera con usuario de LASA y ya tenemos un container y barco asignados
+- En la planilla de excel comenzar a registrar los gastos.
+
+
 
  
 
