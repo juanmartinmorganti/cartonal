@@ -137,6 +137,13 @@ Saludos,"
 - Ingreso a la pagina de la Naviera con usuario de LASA y ya tenemos un container y barco asignados
 - En la planilla de excel comenzar a registrar los gastos.
 
+## Día 14: 06 de mayo 2025.
+- **Acciones realizadas**:
+- Generar planilla con detalle de gastos
+- Seguiminto del barco - container
+- Enviar novedades de Siciliani
+- 
+
 
 
  
