@@ -140,6 +140,8 @@ Saludos,"
 ## Día 14: 06 de mayo 2025.
 - **Acciones realizadas**:
 - Generar planilla con detalle de gastos
+    - BAPRO gestión de Carta de Credito $$502.997,72
+    - Seguro $$28.600,00
 - Seguiminto del barco - container
 - Enviar novedades de Siciliani
 - 
