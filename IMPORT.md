@@ -150,7 +150,11 @@ Saludos,"
 
  
 
-
+## Día 15: 15 de mayo de 2025.
+- **Acciones realizadas**:
+- Se envía a Siciliani la documentación requerida
+- Borre solicita por mail formularios y documentación
+   -el banco recibio documentación para la negociación, esa documentación la necesita la despachante para la nacionalización, para retirarla hay que enviar los originales a Siciliani de todo lo que solicita Comex  
    
   
   
