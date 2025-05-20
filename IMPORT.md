@@ -157,4 +157,9 @@ Saludos,"
    -el banco recibio documentación para la negociación, esa documentación la necesita la despachante para la nacionalización, para retirarla hay que enviar los originales a Siciliani de todo lo que solicita Comex  
    
   
-  
+## Día 16: 20 de mayo de 2025.
+- **Acciones reslizadas**:
+- Generar reporte para subir al grupo de whatsapp
+- Envío de documentación a Comex
+- Solicitud a Sicilini de un presupuesto de la nacionalización
+- Comex solicita BP 1824 y BP 1819 para avanzar con la negociación
